@@ -21,5 +21,21 @@ To download and play:
 
 ## Game Play:
 
+Setting up board:
 
+<img src="assets/Battleship Game Play 1.png" >
 
+Playing:
+An ``0`` indicates clear water while an ``X`` indicates a hit ship
+
+<img src="assets/Battleship Game Play 3.png" >
+
+<img src="assets/Battleship Game Play 2.png" >
+
+Endgame:
+
+<img src="assets/Battleship Game Play 4.png" >
+
+Pressing any key will take you back to the base terminal. 
+
+## Have fun!
